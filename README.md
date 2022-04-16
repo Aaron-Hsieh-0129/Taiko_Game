@@ -5,4 +5,4 @@ All of the art material is from Taiko web game (https://taiko.bui.pm), and it's 
 If this project violate any copy rights please directly email me (zz85721@gmail.com) and I will delete this project.
 
 UML graph
-![image] (https://github.com/Aaron-Hsieh-0129/Taiko_Game/blob/main/太鼓の達人/UML.png)
+![image](https://github.com/Aaron-Hsieh-0129/Taiko_Game/blob/main/太鼓の達人/UML.png)
